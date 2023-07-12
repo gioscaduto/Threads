@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Semaphore.App", "src\Semaph
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaitPulse.App", "src\WaitPulse.App\WaitPulse.App.csproj", "{E9E5B213-3C2E-4570-8E9C-B143AAFF84A5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FrogRace.App", "src\FrogRace\FrogRace.App.csproj", "{6945CAF5-4D47-4531-B1E3-762C3005CF0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FrogRace.App", "src\FrogRace.App\FrogRace.App.csproj", "{6945CAF5-4D47-4531-B1E3-762C3005CF0C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer.App", "src\Timer.App\Timer.App.csproj", "{438A3072-A082-4925-B9F6-D94334BDF288}"
 EndProject
